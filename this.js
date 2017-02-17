@@ -1,6 +1,7 @@
-// console.log(document.title);
+console.log(document.title);
 // alert(document.title);
 // console.log("this.js");
+console.log('\n');
 
 var childrensStory = function(a, b) {
   console.log('This is ...', this);
@@ -39,7 +40,7 @@ var confusing = { // should I use mistifying???
 };
 
 /*
-We know the children's story, but do you know `this` story?  Follow the clues to determine which of the houses the wolf is currently at.
+We know the children's story, but do you know `this` story?  The three little pigs are seeking shelter and need your assistance.
 */
 
 // First clue
